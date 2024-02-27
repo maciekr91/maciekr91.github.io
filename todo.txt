@@ -1,0 +1,3 @@
+# todo zmienić rozmiar obrazka na 900x650
+# todo dostosować opis po otwarciu projektu
+# todo zmienić portfolio na projects

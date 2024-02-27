@@ -18,6 +18,16 @@
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
+        <div class="portfolio-description">
+          <h4>{{ post.title }}</h4>
+          <p class="text-muted">{{ post.summary }}</p>
+          <!-- Additional details here -->
+          <ul class="list-inline">
+            <li>Category: <strong>{{ post.category }}</strong></li>
+            <li>Technologies: <strong>{{ post.technologies }}</strong></li>
+            <li>Date: <strong>{{ post.project-date }}</strong></li>
+          </ul>
+        </div>
       </div>
       {% endfor %}
     </div>
