@@ -16,9 +16,15 @@
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <h3>Short description</h3>
+            <hr class="star-primary" style="font-size: 0.6em; border-top: solid 3px">
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+            <hr class="star-primary" style="font-size: 0.6em; border-top: solid 3px">
+            <h4>For more details visit GitHub</h4>
+            <a href="{{ post.github }}" target="_blank" style="font-size: 20px;">{{ post.github }}</a>
+            <hr class="star-primary" style="font-size: 0.6em; border-top: solid 3px">
             <ul class="list-inline item-details">
               {% if post.category %}
               <li>Category:

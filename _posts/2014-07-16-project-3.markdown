@@ -1,11 +1,14 @@
 ---
 layout: default
+title: Titanic Spaceship
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2014-07-18
+img: project3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+github: https://github.com/maciekr91/Binary-predictions-with-Spaceship-Project
+category: Data Science, Machine Learning, Binary Classification
+technologies: Python (NumPy, Pandas, Matplotlib, Scikit-Learn)
+project-date: October 2023
+description: Goal of the project was to achieve the best possible accuracy of binary prediction. My side-goals were to conduct deepened Exploratory Data Analysis, present the results of actions in a transparent graphical way and to compare different machine learning algorithms.
 ---
+
