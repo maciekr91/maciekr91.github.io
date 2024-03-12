@@ -7,7 +7,7 @@ img: project1.png
 alt: image-alt
 github: https://github.com/maciekr91/Binary-predictions-with-Spaceship-Project
 category: Data Science, Machine Learning, Binary Classification
-technologies: Python (NumPy, Pandas, Matplotlib, Scikit-Learn)
+technologies: Python (NumPy, Pandas, Matplotlib, Scikit-Learn), Jupyter Notebook
 project-date: October 2023
 description: Goal of the project was to achieve the best possible accuracy of binary prediction. My side-goals were to conduct deepened Exploratory Data Analysis, present the results of actions in a transparent graphical way and to compare different machine learning algorithms.
 ---

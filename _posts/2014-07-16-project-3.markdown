@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Titanic Spaceship
+title: Computer Vision with MNIST dataset
 modal-id: 3
 date: 2014-07-18
 img: project3.png
 alt: image-alt
-github: https://github.com/maciekr91/Binary-predictions-with-Spaceship-Project
-category: Data Science, Machine Learning, Binary Classification
-technologies: Python (NumPy, Pandas, Matplotlib, Scikit-Learn)
-project-date: October 2023
-description: Goal of the project was to achieve the best possible accuracy of binary prediction. My side-goals were to conduct deepened Exploratory Data Analysis, present the results of actions in a transparent graphical way and to compare different machine learning algorithms.
+github: https://github.com/maciekr91/Computer-Vision-with-MNIST-dataset
+category: Data Science, Neural Netwoks, Deep Learning, Computer Vision 
+technologies: Python (Tensorflow/Keras), Jupyter Notebook
+project-date: January 2024
+description: I experiment with different architectures of Fully Connected and Convolutional Neural Networks to teach model recognize hand-written digits.
 ---
 

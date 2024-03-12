@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Titanic Spaceship
+title: NLP with Disaster Tweets
 modal-id: 2
 date: 2014-07-18
 img: project2.png
 alt: image-alt
-github: https://github.com/maciekr91/Binary-predictions-with-Spaceship-Project
-category: Data Science, Machine Learning, Binary Classification
-technologies: Python (NumPy, Pandas, Matplotlib, Scikit-Learn)
-project-date: October 2023
-description: Goal of the project was to achieve the best possible accuracy of binary prediction. My side-goals were to conduct deepened Exploratory Data Analysis, present the results of actions in a transparent graphical way and to compare different machine learning algorithms.
+github: https://github.com/maciekr91/NLP-with-Disaster-Tweets
+category: Data Science, Machine Learning, Natural Language Processing
+technologies: Python (NumPy, Pandas, Matplotlib, Sqlite3, Nltk, Scikit-Learn), Jupyter Notebook, SQL
+project-date: December 2023
+description: In this project I used variety of tools for natural language processing to predict if tweets are about a real disaster or not. I created an automated environment for model evaluation as well as SQL database providing storage and easy access to models.
 ---
 
