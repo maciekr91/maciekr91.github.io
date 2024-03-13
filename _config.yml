@@ -30,6 +30,27 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+# Technologies - pictures
+techs:
+  - image: img/techs/python.png
+    alt: "Python"
+  - image: img/techs/sql.png
+    alt: "SQL"
+  - image: img/techs/jupyter.png
+    alt: "Jupyter"
+  - image: img/techs/git.png
+    alt: "Git"
+  - image: img/techs/github.png
+    alt: "GitHub"
+  - image: img/techs/docker.png
+    alt: "Docker"
+  - image: img/techs/linux.png
+    alt: "Linux"
+  - image: img/techs/excel.png
+    alt: "Excel"
+  - image: img/techs/tensorflow.png
+    alt: "TensorFlow"
+
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
@@ -39,16 +60,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: linkedin.com/in/maciej-rakowski-5a901a26a
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/maciekr91
 
 # Postal address (add as many lines as necessary)
 address:
