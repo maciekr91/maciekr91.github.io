@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Webscrapping IT Job Market
+title: Web Scraping IT Job Market
 modal-id: 4
 date: 2024-03-20
 img: project4.png
