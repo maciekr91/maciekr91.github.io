@@ -2,11 +2,11 @@
 layout: default
 title: Computer Vision with MNIST dataset
 modal-id: 3
-date: 2014-07-18
+date: 2024-01-30
 img: project3.png
 alt: image-alt
 github: https://github.com/maciekr91/Computer-Vision-with-MNIST-dataset
-category: Data Science, Neural Netwoks, Deep Learning, Computer Vision 
+category: Data Science, Neural Networks, Deep Learning, Computer Vision 
 technologies: Python (Tensorflow/Keras), Jupyter Notebook
 project-date: January 2024
 description: I experiment with different architectures of Fully Connected and Convolutional Neural Networks to teach model recognize hand-written digits.

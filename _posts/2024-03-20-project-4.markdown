@@ -1,0 +1,14 @@
+---
+layout: default
+title: Webscrapping IT Job Market
+modal-id: 4
+date: 2024-03-20
+img: project4.png
+alt: image-alt
+github: https://github.com/maciekr91/Project-Job-Market
+category: Webscrapping
+technologies: Python (BeautifulSoup, Selenium, Requests, Sqlite3), SQL
+project-date: March 2024
+description: This project is a web scraping and data processing application designed to extract, process, and store job offer data from two most popular job searching websites for IT branch in Poland justjoin.it and pracuj.pl. It's tailored for users interested in aggregating job market informations, including details like job titles, companies, salaries, locations, and technologies. This tool is particularly useful for job market analysis (which is the subject of my next project) and personal job search.
+---
+
