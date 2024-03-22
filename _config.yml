@@ -48,8 +48,6 @@ techs:
     alt: "Linux"
   - image: img/techs/excel.png
     alt: "Excel"
-  - image: img/techs/tensorflow.png
-    alt: "TensorFlow"
 
 # Footer settings
 footer:
